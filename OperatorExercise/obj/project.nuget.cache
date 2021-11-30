@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuffJpGYjwMkIL4qLFWEsICCFUkHSAVeL+Opzo8JygtuPtZwYvhxOlcK+j8TriQJgNB7tNBgsSc5zWsEOqIJGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lakeitra Coleman\\source\\repos\\OperatorExerciseConsole\\OperatorExercise\\OperatorExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lakeitra Coleman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
